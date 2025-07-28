@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there, I'm Phinehas 👾</h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Phinehas1/Phinehas1/main/assets/hacker-avatar.png" width="180" alt="Hacker Style Avatar"/><br>
+
   <em>SQL Enthusiast • Game Developer • Piano Virtuoso</em>
 </p>
 
