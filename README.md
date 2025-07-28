@@ -34,7 +34,7 @@
 ---
 
 <details>
-<summary>👨‍💻 Fun Hacker-Themed ASCII Art</summary>
+<summary>
 
 ```
       .----.   @   @
