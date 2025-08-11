@@ -53,5 +53,5 @@ If you want to personalize your avatar, add your own image to /assets/hacker-ava
 -->
 
 <p align="center">
-  <em>Always learning. Always playing. Always coding.</em>
+  <em>Always learning.</em>
 </p>
