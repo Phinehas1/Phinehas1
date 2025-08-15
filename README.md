@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm Phinehas 👾</h1>
 
 <p align="center">
-  <em>SQL Enthusiast • Game Developer • Piano Virtuoso</em>
+  <em>SQL Enthusiast • Game Developer</em>
 </p>
 
 ---
