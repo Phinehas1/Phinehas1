@@ -31,6 +31,8 @@
 - **CS50's Introduction to Databases with SQL** – Harvard University  
   [View Certificate (PDF)](https://github.com/Phinehas1/Certifications/blob/main/CS50SQL%20Certificate.pdf)  
   Skills: SQL, relational database design, data modeling, joins, indexing.
+  **CompTIA Security+** -CompTIA
+  Skills: SIEM, CIA Triad, Networking, viruses, python, SQL
 
 ---
 
