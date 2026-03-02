@@ -10,13 +10,12 @@
 
 ## 🖥️ About Me
 
-- 💻 I love exploring databases, especially with **SQL (SQLite & MySQL)**
-- ⚙️ I also code in **C#** and dabble in **Go**
+- 💻 I enjoy exploring databases, especially with **SQL (SQLite & MySQL)**
+- ⚙️ I also code in **C#** and in **Python**
 - 🎮 Check out my favorite game project:  
-  [🐔 Chicken Attackk (Itch.io)](https://phinehas.itch.io/chicken-attackk)  
+  [Under Chitin (Itch.io)](https://phinehas.itch.io/under-chitin)  
   <sub>Round survival action, chicken shooter madness!</sub>
-- 🎹 When I'm not coding or gaming, you'll probably find me at the piano
-
+  
 ---
 
 ## 🚀 Tech Stack
@@ -41,25 +40,6 @@
 
 ---
 
-<details>
-<summary>Fun ASCII Art & Coding Progress</summary>
-
-
-
-<details>
-<summary>
-
-```
-      .----.   @   @
-     / .-"-.`.  \v/
-     | | '\ \ \_/ )
-   ,-\ `-.' /.'  /
-  '---`----'----'
- (Coding in progress...)
-```
-</details>
-
----
 
 <!--
 If you want to personalize your avatar, add your own image to /assets/hacker-avatar.png or use a cool computer/hacker-themed image from an avatar generator!
