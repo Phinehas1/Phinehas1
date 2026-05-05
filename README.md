@@ -21,7 +21,7 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🛡️ Cybersecurity Projects</h3>
+      <h3>Projects</h3>
       <ul>
         <li>
           <a href="https://github.com/Phinehas1/incident-response-phishing-case-study"><b>Phishing Analysis Case Study</b></a><br />
