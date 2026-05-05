@@ -1,53 +1,78 @@
-<!-- Profile README for Phinehas1 -->
+To create a truly professional GitHub Profile README that uses advanced formatting, you can use HTML (the "website language") within the Markdown file. This allows for better alignment, custom widths, and a cleaner look.
 
-<h1 align="center">Hi there, I'm Phinehas 👾</h1>
+Copy the code below into your README.md file in your special username repository:
 
-<p align="center">
-  <em>SQL Enthusiast • Game Developer</em>
+HTML
+<div align="center">
+  <h1>Hi, I'm Phinehas 👋</h1>
+  <p><strong>Cybersecurity | Game Developement| IT </strong></p>
+  <p>📍 Chattanooga, TN</p>
+</div>
+
+<hr />
+
+<h3> 🖥️ Home Lab & Infrastructure</h3>
+<p>
+  I maintain a dedicated home lab environment to simulate enterprise networks and security scenarios.
+</p>
+<ul>
+  <li><strong>Virtualization:</strong> Architected a virtual network using <b>VMware</b> and <b>VirtualBox</b>.</li>
+  <li><strong>Active Directory:</strong> Deployed and managed a <b>Windows Server</b> environment, configuring Domain Controllers, Client VMs, and User Groups to practice identity and access management (IAM).</li>
+</ul>
+
+<hr />
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ Cybersecurity Projects</h3>
+      <ul>
+        <li>
+          <a href="https://github.com/Phinehas1/helpdesk-ticketing-repository"><b>Phishing Analysis Case Study</b></a><br />
+          Detailed investigation of a simulated SOC ticket involving phishing and malware delivery.
+        </li>
+        <li>
+          <a href="https://github.com/Phinehas1/CS50-SQL-Final-Project"><b>Music Library SQL Database</b></a><br />
+          A relational database designed with SQLite, utilizing 3NF normalization.
+        </li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎮 Game Development</h3>
+      <ul>
+        <li>
+          <a href="https://phinehas.itch.io/under-chitin"><b>Under Chitin (itch.io)</b></a><br />
+          An original idle/clicker game built in <b>Godot Engine</b> using GDScript and custom UI containers.
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<hr />
+
+<h3>📜 Certifications</h3>
+<div>
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B-red?style=flat-square" alt="Security+">
+  <img src="https://img.shields.io/badge/Google-Cybersecurity-blue?style=flat-square" alt="Google Cyber">
+  <img src="https://img.shields.io/badge/IBM-Python_Professional-blue?style=flat-square" alt="IBM Python">
+  <img src="https://img.shields.io/badge/HarvardX-CS50_SQL-green?style=flat-square" alt="CS50 SQL">
+</div>
+
+<hr />
+
+<h3>📫 Connect with me</h3>
+<p>
+  <a href="https://www.linkedin.com/in/phinehas-doe/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://phinehas.itch.io/">
+    <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" />
+  </a>
 </p>
 
----
+<hr />
 
-## 🖥️ About Me
-
-- 💻 I enjoy exploring databases, especially with **SQL (SQLite & MySQL)**
-- ⚙️ I also code in **C#** and in **Python**
-- 🎮 Check out my favorite game project:  
-  [Under Chitin (Itch.io)](https://phinehas.itch.io/under-chitin)  
-  <sub>Round survival action, chicken shooter madness!</sub>
-  
----
-
-## 🚀 Tech Stack
-
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white) 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
----
-
-## 📜 Certificates
-
-- **CS50's Introduction to Databases with SQL** – Harvard University  
-  [View Certificate (PDF)](https://github.com/Phinehas1/Certifications/blob/main/CS50SQL%20Certificate.pdf)  
-  Skills: SQL, relational database design, data modeling, joins, indexing.
-
--**CompTIA Security+** -CompTIA
-Skills: SIEM, CIA Triad, Networking, viruses, python, SQL
-
----
-
-## 🌍 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Phinehas%20Doe-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phinehas-doe-670791355/)
-
----
-
-
-<!--
-If you want to personalize your avatar, add your own image to /assets/hacker-avatar.png or use a cool computer/hacker-themed image from an avatar generator!
--->
-
-<p align="center">
-  <em>Always learning.</em>
-</p>
+<div align="center">
+  <i>"Eagle Scout | 4.0 GPA | Constant Learner"</i>
+</div>
