@@ -1,6 +1,4 @@
-To create a truly professional GitHub Profile README that uses advanced formatting, you can use HTML (the "website language") within the Markdown file. This allows for better alignment, custom widths, and a cleaner look.
 
-Copy the code below into your README.md file in your special username repository:
 
 HTML
 <div align="center">
