@@ -1,6 +1,4 @@
 
-
-HTML
 <div align="center">
   <h1>Hi, I'm Phinehas 👋</h1>
   <p><strong>Cybersecurity | Game Developement| IT </strong></p>
