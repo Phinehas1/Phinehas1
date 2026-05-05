@@ -24,7 +24,7 @@
       <h3>🛡️ Cybersecurity Projects</h3>
       <ul>
         <li>
-          <a href="https://github.com/Phinehas1/helpdesk-ticketing-repository"><b>Phishing Analysis Case Study</b></a><br />
+          <a href="https://github.com/Phinehas1/incident-response-phishing-case-study"><b>Phishing Analysis Case Study</b></a><br />
           Detailed investigation of a simulated SOC ticket involving phishing and malware delivery.
         </li>
         <li>
